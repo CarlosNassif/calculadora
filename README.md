@@ -1,27 +1,15 @@
 # Calculadora
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.1.1.
 
-## Development server
+## Servidor de Desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Execute o comando `ng serve` para o servidor de desenvolvimento. Acesse o link `http://localhost:4200/`. O aplicativo irá atualizar automaticamente se alguma alteração no código for feita.
 
-## Code scaffolding
+## Executando testes unitários
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Execute o comando `ng test` para realizar os testes unitários via [Karma](https://karma-runner.github.io).
 
-## Build
+## O que aprendi com o Projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Durante a criação do projeto seguindo as vídeo-aulas do [Marcio Casale](https://www.udemy.com/user/marcio-casale-de-souza/) trabalhei nas ferramentas dentro do Angular. Além de reforçar a interação serviço - componente, pratiquei o hábito de documentar o código corretamente e implementei testes unitários, o que foi uma grande novidade.
